@@ -15,6 +15,7 @@
         "image_dDjEhE": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/1774900864_Tronic_1.png",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
@@ -74,7 +75,7 @@
         "liquid_LDhWX3": {
           "type": "liquid",
           "settings": {
-            "liquid": "<p data-start=\"0\" data-end=\"134\"><span class=\"BZ_Pyq_fadeIn\">🔹 </span><strong data-start=\"3\" data-end=\"48\"><span class=\"BZ_Pyq_fadeIn\">Save </span><span class=\"BZ_Pyq_fadeIn\">space </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">keep </span><span class=\"BZ_Pyq_fadeIn\">your </span><span class=\"BZ_Pyq_fadeIn\">closet </span><span class=\"BZ_Pyq_fadeIn\">organized</span></strong><span class=\"BZ_Pyq_fadeIn\"> </span><span class=\"BZ_Pyq_fadeIn\">with </span><span class=\"BZ_Pyq_fadeIn\">this </span><span class=\"BZ_Pyq_fadeIn\">9-</span><span class=\"BZ_Pyq_fadeIn\">hole </span><span class=\"BZ_Pyq_fadeIn\">360° </span><span class=\"BZ_Pyq_fadeIn\">rotating </span><span class=\"BZ_Pyq_fadeIn\">clothes </span><span class=\"BZ_Pyq_fadeIn\">drying </span><span class=\"BZ_Pyq_fadeIn\">rack </span><span class=\"BZ_Pyq_fadeIn\">designed </span><span class=\"BZ_Pyq_fadeIn\">for </span><span class=\"BZ_Pyq_fadeIn\">maximum </span><span class=\"BZ_Pyq_fadeIn\">efficiency.</span></p><p data-start=\"136\" data-end=\"260\"><span class=\"BZ_Pyq_fadeIn\">🔄 </span><strong data-start=\"139\" data-end=\"183\"><span class=\"BZ_Pyq_fadeIn\">Rotating </span><span class=\"BZ_Pyq_fadeIn\">hook </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">vertical </span><span class=\"BZ_Pyq_fadeIn\">hanging </span><span class=\"BZ_Pyq_fadeIn\">slots</span></strong><span class=\"BZ_Pyq_fadeIn\"> </span><span class=\"BZ_Pyq_fadeIn\">allow </span><span class=\"BZ_Pyq_fadeIn\">multiple </span><span class=\"BZ_Pyq_fadeIn\">garments </span><span class=\"BZ_Pyq_fadeIn\">to </span><span class=\"BZ_Pyq_fadeIn\">dry </span><span class=\"BZ_Pyq_fadeIn\">faster </span><span class=\"BZ_Pyq_fadeIn\">while </span><span class=\"BZ_Pyq_fadeIn\">staying </span><span class=\"BZ_Pyq_fadeIn\">neat </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">wrinkle-</span><span class=\"BZ_Pyq_fadeIn\">free.</span></p><p data-start=\"262\" data-end=\"378\" data-is-last-node=\"\" data-is-only-node=\"\"><span class=\"BZ_Pyq_fadeIn\">🏠 </span><strong data-start=\"265\" data-end=\"322\"><span class=\"BZ_Pyq_fadeIn\">Perfect </span><span class=\"BZ_Pyq_fadeIn\">for </span><span class=\"BZ_Pyq_fadeIn\">small </span><span class=\"BZ_Pyq_fadeIn\">closets, </span><span class=\"BZ_Pyq_fadeIn\">apartments, </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">dorm </span><span class=\"BZ_Pyq_fadeIn\">rooms</span></strong><span class=\"BZ_Pyq_fadeIn\">, </span><span class=\"BZ_Pyq_fadeIn\">offering </span><span class=\"BZ_Pyq_fadeIn\">a </span><span class=\"BZ_Pyq_fadeIn\">strong, </span><span class=\"BZ_Pyq_fadeIn\">durable, </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">space-</span><span class=\"BZ_Pyq_fadeIn\">saving </span><span class=\"BZ_Pyq_fadeIn\">solution.</span></p>"
+            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">❄️🔥 Heat or Cool Instantly</span> – Enjoy your drink at the perfect temperature anytime, whether hot or cold.<br><br>\n<span style=\"font-weight: bold;\">🌡️ Smart Temperature Control</span> – Easily adjust and maintain your ideal temperature with a simple touch.<br><br>\n<span style=\"font-weight: bold;\">🚗 Portable & Convenient</span> – Perfect for use in your car, office, or home with its compact, easy-to-carry design.\n</div>"
           }
         },
         "variant_picker_phHAPi": {
@@ -112,14 +113,14 @@
       ],
       "name": "Featured product",
       "settings": {
-        "product": "9-holes-360-rotating-clothes-drying-rack",
+        "product": "cooling-heating-cup",
         "subheading": "",
         "title": "",
         "show_vendor": false,
         "show_sku": false,
         "show_taxes_included": false,
         "show_product_rating": false,
-        "show_share_buttons": true,
+        "show_share_buttons": false,
         "help_page": "",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
@@ -141,10 +142,10 @@
         "ai_gen_block_adef03d_WywYQT": {
           "type": "ai_gen_block_adef03d",
           "settings": {
-            "text_1": "Free shipping on orders over $50",
-            "text_2": "Shop now and save 20%",
-            "text_3": "New arrivals every week",
-            "text_4": "100% satisfaction guaranteed",
+            "text_1": "Small changes in your space can create big changes in your life.",
+            "text_2": "Small changes in your space can create big changes in your life.",
+            "text_3": "Small changes in your space can create big changes in your life.",
+            "text_4": "Small changes in your space can create big changes in your life.",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -175,8 +176,8 @@
       "name": "Rich text",
       "settings": {
         "subheading": "",
-        "title": "About Nazzemni",
-        "content": "<p>At <strong>Nazzemni</strong>, we believe that staying organized should be simple, stylish, and stress-free. Our mission is to create practical everyday essentials that make your life easier — whether you’re at home, at work, or on the move.</p><p>We focus on thoughtfully designed products that combine functionality, quality, and modern style. From travel accessories to daily organizers, every Nazzemni item is made to help you carry what you need, neatly and confidently.</p><p>We understand that your essentials matter, which is why we prioritize durability, convenience, and elegant design in everything we offer. Our goal is to help you feel prepared, organized, and effortlessly put together — wherever life takes you.</p><p><strong>Nazzemni — Organize Your Day, Elevate Your Style.</strong> ✨</p>",
+        "title": "About CarTronic",
+        "content": "<p><strong>We are passionate about delivering thoughtfully designed products that combine innovation, quality, and everyday practicality to improve the way you live. Our focus is on creating solutions that bring comfort, simplicity, and reliability into your daily routine, helping you enjoy life with ease and confidence.”</strong></p><p><strong>“Smart living starts with simple solutions.”</strong></p>",
         "button_text": "",
         "button_link": "",
         "background_type": "full_width",
@@ -195,10 +196,10 @@
         "ai_gen_block_adef03d_CtkpL4": {
           "type": "ai_gen_block_adef03d",
           "settings": {
-            "text_1": "Free shipping on orders over $50",
-            "text_2": "Shop now and save 20%",
-            "text_3": "New arrivals every week",
-            "text_4": "100% satisfaction guaranteed",
+            "text_1": "Designed for comfort, built for everyday living.",
+            "text_2": "Designed for comfort, built for everyday living.",
+            "text_3": "Designed for comfort, built for everyday living.",
+            "text_4": "Designed for comfort, built for everyday living.",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -237,22 +238,22 @@
         "question_pBTw79": {
           "type": "question",
           "settings": {
-            "title": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "What products do you offer?",
+            "answer": "<p><br/>We offer a curated selection of practical and innovative products designed to improve your everyday life and bring convenience to your routine.<br/><br/></p>"
           }
         },
         "question_qPVDbC": {
           "type": "question",
           "settings": {
-            "title": "How long will it take to get my order?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "How long does shipping take?",
+            "answer": "<p>Shipping times typically range between 5–7 business days depending on your location, and you will receive tracking information once your order is shipped.</p>"
           }
         },
         "question_dNWnG8": {
           "type": "question",
           "settings": {
-            "title": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "How can I contact customer support?",
+            "answer": "<p>You can reach our support team through our contact page or Whatsapp, and we’ll be happy to assist you as quickly as possible.</p>"
           }
         }
       },
