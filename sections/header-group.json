@@ -38,7 +38,7 @@
         "autoplay": true,
         "cycle_speed": 5,
         "background": "#000000",
-        "text_color": "#ffffff",
+        "text_color": "#f3ec00",
         "button_background": "#56112a",
         "button_text_color": "#ffffff"
       }
