@@ -29,6 +29,7 @@
       "block_order": [
         "message-1"
       ],
+      "disabled": true,
       "custom_css": [
         "h1,h2,h3,h4,h5,p {padding: 0px;}"
       ],
@@ -42,6 +43,41 @@
         "button_background": "#56112a",
         "button_text_color": "#ffffff"
       }
+    },
+    "blocks_C7Djje": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_adef03d_3JAYRx": {
+          "type": "ai_gen_block_adef03d",
+          "settings": {
+            "text_1": "Free Delivery All Over Lebanon",
+            "text_2": "Free Delivery All Over Lebanon",
+            "text_3": "Free Delivery All Over Lebanon",
+            "text_4": "Free Delivery All Over Lebanon",
+            "show_icon": false,
+            "icon_type": "star",
+            "icon_size": 20,
+            "icon_color": "#0c1b54",
+            "icon_text_spacing": 8,
+            "text_size": 14,
+            "text_weight": "500",
+            "text_transform": "none",
+            "text_color": "#f3ec00",
+            "speed": 10,
+            "pause_on_hover": true,
+            "item_spacing": 60,
+            "padding_vertical": 20,
+            "desktop_width_percent": 100,
+            "background_color": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_adef03d_3JAYRx"
+      ],
+      "name": "Marquee",
+      "settings": {}
     },
     "header": {
       "type": "header",
@@ -65,6 +101,7 @@
   },
   "order": [
     "announcement-bar",
+    "blocks_C7Djje",
     "header"
   ]
 }
