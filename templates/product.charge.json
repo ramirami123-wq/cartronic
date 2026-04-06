@@ -28,7 +28,7 @@
         "liquid_LqAjmx": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">❄️🔥 Heat or Cool Instantly</span> – Enjoy your drink at the perfect temperature anytime, whether hot or cold.<br><br>\n<span style=\"font-weight: bold;\">🌡️ Smart Temperature Control</span> – Easily adjust and maintain your ideal temperature with a simple touch.<br><br>\n<span style=\"font-weight: bold;\">🚗 Portable & Convenient</span> – Perfect for use in your car, office, or home with its compact, easy-to-carry design.\n</div>"
+            "liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔌 All-in-One Retractable Design</span> – Built-in Type-C and Lightning cables keep your car neat and tangle-free, no extra cables needed.<br><br>\n\n<span style=\"font-weight: bold;\">⚡ Fast Charging Power</span> – Supports PD and QC3.0 for quick and efficient charging of your devices on the go.<br><br>\n\n<span style=\"font-weight: bold;\">🚗 Flexible & Convenient</span> – 180° rotating head and 80cm retractable cables make it easy to use in any car setup.<br><br>\n\n<span style=\"font-weight: bold;\">🔋 Charge Multiple Devices</span> – Equipped with USB-C and USB-A ports so you can power several devices at once.<br><br>\n\n<span style=\"font-weight: bold;\">📱 Wide Compatibility</span> – Works with iPhone, Android, and most vehicles for everyday convenience.\n</div>"
           }
         },
         "liquid_WqHpzt": {
@@ -129,10 +129,10 @@
           "type": "ai_gen_block_adef03d",
           "name": "Free delivery on orders",
           "settings": {
-            "text_1": "Perfect temperature, every sip.",
-            "text_2": "Perfect temperature, every sip.",
-            "text_3": "Perfect temperature, every sip.",
-            "text_4": "Perfect temperature, every sip.",
+            "text_1": "Charge faster, drive cleaner — no more tangled cables.",
+            "text_2": "Charge faster, drive cleaner — no more tangled cables.",
+            "text_3": "Charge faster, drive cleaner — no more tangled cables.",
+            "text_4": "Charge faster, drive cleaner — no more tangled cables.",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -163,11 +163,11 @@
         "item_BrjwQF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1774870729_php4rcdbug3niapdsDOHIF.png",
+            "image": "shopify://shop_images/tr4.png",
             "tab_label": "Item",
             "subheading": "",
-            "title": "Smart Temperature Control",
-            "content": "<p><br/>Enjoy your drinks exactly how you like them with quick heating and cooling technology. Adjust the temperature effortlessly and keep every sip just right.<br/><br/></p>",
+            "title": "Clean & Tangle-Free Charging",
+            "content": "<p>Keep your car neat with built-in retractable cables—no more messy wires. Everything you need is in one compact charger.</p><p>Charge multiple devices quickly with fast PD and QC3.0 power, perfect for everyday driving.</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -197,10 +197,10 @@
           "type": "ai_gen_block_adef03d",
           "name": "Free delivery on orders",
           "settings": {
-            "text_1": "Hot or cold—your drink, your way.",
-            "text_2": "Hot or cold—your drink, your way.",
-            "text_3": "Hot or cold—your drink, your way.",
-            "text_4": "Hot or cold—your drink, your way.",
+            "text_1": "One charger. Every device. Zero mess.",
+            "text_2": "One charger. Every device. Zero mess.",
+            "text_3": "One charger. Every device. Zero mess.",
+            "text_4": "One charger. Every device. Zero mess.",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -231,11 +231,11 @@
         "item_GpEwj6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1774900864_Gemini_Generated_Image_ky7s88ky7s88ky7s.png",
+            "image": "shopify://shop_images/tr8.png",
             "tab_label": "",
             "subheading": "",
-            "title": "Designed for Everyday Convenience",
-            "content": "<p>Whether you're at home, in the office, or on the go, this compact cup fits perfectly into your lifestyle. Its portable design makes it easy to carry and use anywhere you need it.</p>",
+            "title": "Fast Power On The Go",
+            "content": "<p>Enjoy quick, efficient charging for all your devices anytime you drive. No delays, just reliable power.</p><p>With a 180° rotating design and retractable cables, it fits any car setup with ease.</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -264,7 +264,7 @@
         "item_77LR69": {
           "type": "item",
           "settings": {
-            "row_heading": "Heats & Cools Drinks",
+            "row_heading": "Retractable Cables",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -274,7 +274,7 @@
         "item_dEPCJH": {
           "type": "item",
           "settings": {
-            "row_heading": "Fast Temperature Adjustment",
+            "row_heading": "Charge Multiple Devices",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -284,7 +284,7 @@
         "item_KWPwtH": {
           "type": "item",
           "settings": {
-            "row_heading": "Easy One-Touch Control",
+            "row_heading": "180° Rotating Design",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -294,7 +294,7 @@
         "item_jEyeCX": {
           "type": "item",
           "settings": {
-            "row_heading": "Portable & Travel-Friendly",
+            "row_heading": "Tangle-Free Experience",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -437,43 +437,43 @@
         "question_adqrYK": {
           "type": "question",
           "settings": {
-            "title": "How does the cup heat and cool drinks?",
-            "answer": "<p>The cup uses advanced temperature control technology to either heat or cool your beverage, keeping it at your desired temperature.</p>"
+            "title": "Is this charger compatible with all phones?",
+            "answer": "<p>Yes, it supports iPhone, Android, and most devices using Type-C, USB-A, or Lightning connections.</p>"
           }
         },
         "question_TDP7NK": {
           "type": "question",
           "settings": {
-            "title": "How long does it take to reach the desired temperature?",
-            "answer": "<p>It typically takes just a few minutes to heat or cool your drink, depending on the starting temperature.</p>"
+            "title": "Does it support fast charging?",
+            "answer": "<p>Yes, it supports PD and QC3.0 for fast and efficient charging.</p>"
           }
         },
         "question_hPGXCN": {
           "type": "question",
           "settings": {
-            "title": "Can I adjust the temperature?",
-            "answer": "<p>Yes, the cup features easy one-touch controls that allow you to set your preferred temperature effortlessly.</p>"
+            "title": "Can I charge multiple devices at the same time?",
+            "answer": "<p>Yes, you can charge multiple devices at once using the built-in cables and extra ports.</p>"
           }
         },
         "question_7Rxwez": {
           "type": "question",
           "settings": {
-            "title": "Is this a good gift option?",
-            "answer": "<p>Definitely. Its stylish design and practicality make it a great gift for friends, family, or anyone who loves staying organized.</p>"
+            "title": "Are the cables durable?",
+            "answer": "<p>Yes, the retractable cables are made for long-term use and resist tangling.</p>"
           }
         },
         "question_Pzgd7t": {
           "type": "question",
           "settings": {
-            "title": "Is it safe to use?",
-            "answer": "<p>Absolutely, the cup is designed with built-in safety features to prevent overheating and ensure safe daily use.</p>"
+            "title": "Will it fit in any car?",
+            "answer": "<p>Yes, it fits most car cigarette lighter sockets and has a 180° rotating design for flexibility.</p>"
           }
         },
         "question_EwdhHj": {
           "type": "question",
           "settings": {
-            "title": "What type of drinks can I use it for?",
-            "answer": "<p>You can use it for coffee, tea, water, juice, or any beverage you want to keep hot or cold.</p>"
+            "title": "How long are the cables?",
+            "answer": "<p>The cables extend up to 80 cm for comfortable use.</p>"
           }
         }
       },
